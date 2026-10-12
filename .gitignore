@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Packet Tracer backup files
+*.bak
+*.pka.bak
+*.pkt.bak
+
+# Editor & IDE artifacts
+.vscode/
+.idea/
+*.swp
+*.swo
